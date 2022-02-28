@@ -1,7 +1,7 @@
-ensembles
+ensembles_project
 ==============================
 
-Challenge Signed by Allan Dieguez, head of LuizaLabs
+Projeto Assinado por Allan Dieguez, Head of Data Science na Luiza Labs
 
 Project Organization
 ------------

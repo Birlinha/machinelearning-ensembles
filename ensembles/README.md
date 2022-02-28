@@ -1,7 +1,7 @@
 ensembles
 ==============================
 
-Challenge Signed by Allan Dieguez, head of LuizaLabs
+Challenge Signed by Allan Dieguez, Head at LuizaLabs
 
 Project Organization
 ------------
